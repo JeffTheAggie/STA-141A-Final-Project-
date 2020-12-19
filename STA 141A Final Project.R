@@ -1,6 +1,5 @@
 library(MASS)
 library(stargazer)
-knitr::opts_chunk$set(echo = FALSE, warning=FALSE)
 
 #Getting Our Data
 library(data.table)
